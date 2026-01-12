@@ -1,10 +1,19 @@
+* {
+  font-family: "Courier New", Courier, monospace;
+}
 body {
   background-color: rgb(126, 170, 155);
 }
 main {
   display: flex;
+  flex-direction: column;
 
   h1 {
     margin: auto;
+  }
+  p {
+    margin: auto;
+    padding-top: 1rem;
+    font-size: 20px;
   }
 }
