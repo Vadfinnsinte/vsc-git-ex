@@ -1,0 +1,10 @@
+body {
+  background-color: rgb(126, 170, 155);
+}
+main {
+  display: flex;
+
+  h1 {
+    margin: auto;
+  }
+}
